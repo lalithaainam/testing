@@ -1,6 +1,7 @@
 import pytest
 # test case code must be written inside a method
 # method name must be started with test
+#this p/g shows how to use test fixtures
 
 
 @pytest.fixture(scope='session')
